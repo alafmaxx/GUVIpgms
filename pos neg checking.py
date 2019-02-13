@@ -1,8 +1,8 @@
 num = int(input())
 if num > 0:
-  print("positive")
+  print("Positive")
 elif num == 0:
-  print("unknown:")
+  print("Unknown:")
 else:
-  print("negative")
+  print("Negative")
   
